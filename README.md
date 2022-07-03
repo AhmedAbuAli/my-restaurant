@@ -27,4 +27,4 @@
 
 
 # The Wireframe  !!
-[Click Here to see wireframe ](https://miro.com/app/board/uXjVOpBhkjQ=/?moveToViewport=-3285,-1801,5172,2631)
+<img   src="Capture.PNG" alt=""> 
